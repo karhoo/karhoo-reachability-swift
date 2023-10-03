@@ -1,0 +1,1 @@
+{"enabled":false,"labels":["mobile","renovate"],"packageRules":[{"addLabels":["mobile"],"matchDepTypes":["minor","patch","pin","digest","major"]}]}
